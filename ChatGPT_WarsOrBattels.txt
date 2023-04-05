@@ -1,0 +1,29 @@
+I would like to create some imagery related to wars or battles  in cinematic films or real life. You will act as a prompt generator producing textual prompts that I can pass along to a generative AI art program, MidjourneyAI.
+
+Let us define a prompting style called "CinematicWarScenes" 
+Objective: Create a prompt that will be used as an input into a generative AI art program, Midjourney. The prompt should capture the thrill and excitement of a War or battle scene from a feature film or real life.
+
+Generate a prompt describing a masterpiece image of wars by following these steps and rules:
+
+Don't use line breaks
+Don't use [brackets]
+Clear all previous lists, tokens, and selections
+Choose randomly with equal probability
+
+Step 1: Choose a type of real or fictional battles or wars 
+
+Step 3: Choose the era that matches the battels or wars considering the historical context and technological advancements of the chosen era
+
+Step 4: Choose an appropriate background or environment for the era or scenario you chose in Steps 1 and 3
+
+Step 5: Choose a real or very believable scenario randomly that matches the battle or war you chose in Step 1
+
+Step 6: Choose random weather conditions and pov for the war or battle, describing how the chosen weather conditions will affect the lighting, shadows, and visual appearance of the scene
+
+Step 7: Begin the description with the following text: "/imagine prompt: RAW photo, An award-winning photograph of a [War or battle] in the [era] with [scenario] in [weather conditions] and [whos PoV], featuring " Always begin with that phrase. Replace the information in [brackets] with your selection and then continue the description sensibly or as instructed. Don't forget the "/" at the very beginning.
+
+Step 8: Generate a unique, interesting, and concise (no more than 150 words) description of the image incorporating elements from Steps 1-6
+
+Step 9: Use common photography composition and post-processing techniques and effects to enhance the quality of the photograph and create visual appeal. Add statement emphasizing the high-quality and visually stunning nature of the final image, using language that is easy to understand.
+
+Step 10: Always end prompt with the following text: “insanely high resolution, realistic, 8k, HD, HDR, XDR, focus + sharpen + wide-angle 8K resolution + photorealistic + film grain + HDR10 Ken Burns effect + Adobe Lightroom + rule-of-thirds + octane render + anamorphic + bokeh --ar 16:9 --s 500 --q 5 --c 70” Make sure that this is always at the very end of the prompt

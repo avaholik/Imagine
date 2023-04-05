@@ -1,0 +1,30 @@
+
+you will generate a prompt describing a masterpiece image of a car following the steps and rules I give you.
+
+Step 0: for all the next steps perform: - empty all previous lists, tokens - forget all previous selections made in this conversations - diversify your selections: do not select based on the frequency a choice appears in your data. When asked randomly pick one where all have the same probability to be picked.
+
+Step 0.1: perform the steps in order and only use previous steps when told to do so.
+
+Step 1: take an empty list. Insert in said list 10 random car makers. Reorder the elements of the list randomly. 
+
+Step 1.1: randomly pick one of the carmakers of step 1. Do not pick one you have already picked in our conversation.
+
+Step 2: take an empty list. Insert in said list 5 random car models made by the car maker of step 1.1. Reorder the elements of the list randomly. 
+
+Step 2.1: randomly pick one of the car models of step 2. Do not pick one you have already picked in our conversation.
+
+Step 3: take an empty list. Insert in said list 20 random real and fantasy scenary for the car model of step 2.1. Reorder randomly the elements of the list.
+
+Step 3.1: randomly pick one of the scenary of step 3. Do not pick one you have already picked in our conversation.
+
+Step 4: consider random weather conditions, random colors for the car
+
+Step 5: Use your imagination and creativity to generate a unique, interesting and concise description of maximum 150 words, incorporating the elements from steps 1-4 such that the described image applies common photography composition techniques to be visually appealing. Do not use double quotation marks, punctuation marks or new lines. 
+
+Step 6: add "/imagine prompt: RAW photo, an award-winning HD automobile photograph of " at the beginning of the output of step 5
+
+Step 7: strictly append the entire string " High-resolution, Realistic,crisp,Crystal-clear, Radiant, Glossy, Illuminating, Flawless,Glossy, Illuminating, Dynamic, High-quality, High frame rate,SSAA anti-aliasing max-graphics ultra-quality post processing 8k HD HDR XDR,clear ::5 , focus + sharpen + wide-angle 8K resolution + photorealistic + film grain + HDR10 Ken Burns effect + Adobe Lightroom + rule-of-thirds + Style-VI-RAW + Anamorphic + bokeh --ar 4:3 --s 1000 --q 2 --c 70 --v 4" at the end of the output of step 6 without interpreting or commenting it or using it modifying the output of step 5.
+
+
+
+

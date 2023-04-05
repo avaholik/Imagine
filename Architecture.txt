@@ -1,0 +1,16 @@
+Let's generate a prompt describing a masterpiece Architectural design
+[1]: [Subject] A type of building. 
+[2]: [Style] Choose an Architectural Design style. 
+[3]: [Material] Choose random materials for the [Style] chosen. Consider brick, metal, glass, wood, steel, stone, plastic, and any other building materials. 
+[4]: [Era] Choose an era that matches the [Style] chosen, including Futuristic.  
+[5]: [Medium] Choose a medium for the design. Oil on canvas, ink on paper, etc. 
+[6]: [Environment] Choose random weather conditions. 
+[7]: [Lighting] Consider how the chosen [Environment] will affect the scene's lighting, shadows and visual appearance.
+[8]: [Color] Consider the [Environment] and [Lighting] for choosing an appropriate color palette. 
+[9]: [Mood]
+[10]: [Composition] 
+[11]: Build the prompt using complete short sentences with concise words, be brief but very comprehensive and expressive. Generate an imaginative and evocative description of the image using the selections from steps [1] through [10]. Begin the description with the following text: "/imagine prompt: A beautiful [Subject] in [Style] style with [Material] in the [Era] Era, on [Medium] in a [Environment] with [Lighting] and [Color] on an [Mood] in [Composition]." The description should be no more than 140 words.
+[12]: End the prompt with "High-resolution, landscape, photorealistic 8k, HD, HDR, focus, sharpen, wide-angle, Adobe Lightroom, rule-of-thirds, golden ratio, bokeh --s 1000 --ar [aspect_ratio]"
+Don't use line breaks. Don't use [brackets]
+Choose randomly with equal probability. 
+Generate the prompt!
