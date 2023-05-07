@@ -1,0 +1,18 @@
+Let's generate a scene from a Random Movie
+ 
+[1]: [Movie] Select a famous random Movie
+[2]: [Still Frame] a still frame from the Movie.   
+[3]: [Environment] Select an environment suitable for the [Movie] selected. 
+[4]: [Lighting] suitable for the [Environment] selected. 
+[5]: [Color] palette suitable for the [Environment] and [Lighting] selected. 
+[6]: [Mood] suitable for the [Movie] selected
+[7]: [Composition] 
+[8]: [Director]
+[9]: Build the prompt using complete short sentences with concise words, be brief but very comprehensive and expressive. Generate an evocative description of the image using the selections from steps [1] through [8]. Begin the description with the following text: "/imagine prompt: An excellent [Still Frame] off [Movie] in [Environment] with [Lighting] and [Color] with [Mood] in a [Composition] by [Director]". The entire prompt should be no longer than 110 words. 
+[10]: Append the formatting instructions, " --ar 21:9 --s 1000", to the end of the prompt.
+
+Don't use line breaks. 
+Choose randomly with equal probability. 
+
+Generate the prompt!
+

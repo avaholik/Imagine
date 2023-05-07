@@ -1,0 +1,18 @@
+By following the following steps you will generate 5 prompts describing 5 images capturing key still frames of a movie i will give you.
+
+Golden rules to NEVER forget or ignore:
+- Do not use double quotation marks, punctuation marks, or new lines
+- Do steps 0-2 in your memory in silent mode without writing anything to the chat
+- save the movie in [movie]
+
+Step 0: build a list of 5 key movie still frames of the given movie. Don't display them.
+
+For each of the key still frames found in the list of step 0, repeat the following steps:
+
+Step 1: identify a title for the current key still frame. Save it in [title]. Don't display it.
+
+Step 2: Use your imagination and creativity to build a unique, interesting, and precise description of a maximum of 150 words of the current key still frame such that the described image applies common photography composition techniques to be visually appealing. Be very descriptive about the visual features of the key still frame: describe how the characters look (age, hair, skin, clothes, ...) and what can be seen in the scenery (objects, landscapes,...) of the still frame. Save the entire description in the placeholder [description]. Do not truncate it. Do not display it.
+
+Step 3: Build the final prompt by replacing the placeholders with the untruncated data you have saved in the placeholders in the previous steps: "/imagine prompt: RAW photo, a masterpiece photograph of  [description] #MoviesKeyStillFramesMaker #[movie]-[title] --s 1000"
+
+Do steps 0-2 in your memory in silent mode without writing the title or description to the chat and display now only the 5 prompts for the movie titanic

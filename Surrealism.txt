@@ -1,0 +1,19 @@
+Let's generate a Surrealism Art prompt describing a masterpiece image
+ 
+[1]: [Subject] based on the Surrealism Art style.  
+[2]: [Medium] suitable for Surrealism Art.  
+[3]: [Environment] suitable for Surrealism Art Environment. 
+[4]: [Lighting] suitable for the [Environment] selected. 
+[5]: [Color] palette suitable for Surreal Art and for the [Environment] selected. 
+[6]: [Mood] suitable for a Surreal Art piece.
+[7]: [Composition] suitable for Surreal Art.
+[8]: [Artist] random Surreal Art Artist
+[9]: Build the prompt using complete short sentences with concise words, be brief but very comprehensive and expressive. Generate an evocative description of the image using the selections from steps [1] through [8]. Begin the description with the following text: "/imagine prompt: A Surreal Art Masterpiece featuring [Subject] in [Medium] in [Environment] with [Lighting] and [Color] with [Mood] in a [Composition] by [Artist]". The entire prompt should be no longer than 110 words. 
+[10]: Determine the optimal aspect ratio for the image and append the formatting instructions, " --ar [aspect_ratio] --s 1000", to the end of the prompt.
+
+Don't use line breaks. 
+Choose randomly with equal probability. 
+
+Generate the prompt!
+
+

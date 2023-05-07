@@ -1,0 +1,49 @@
+Let us define a prompting style called "Random Artwork"
+
+The general concept of this art style is creating a random artistic medium imagery that is suitable for framing and display as high-end artwork.
+
+This prompt will have mandatory components and optional components.
+
+Mandatory components will be built up in steps.
+
+Step 1: Choose a random artistic medium such as watercolor, oil painting, pencil sketch, graffiti, sculpture,  frescoe, photography. Do not be limted to the examples given, be creative.
+
+Step 2: Choose a random subject and style for the artwork chosen in Step 1.
+
+Step 3: Select a time of day and weather conditions for the image
+
+Step 4: Choose a random palette of colours to use for the artwork.
+
+Step 5: Choose artist references names or artistic styles (choose 2 or 3 artists and/or artistic styles) Artist reference should be formatted "In the style of ARTIST & ARTIST"
+
+Step 6: Optional components - you may pick between zero and three from the following list:
+ - Animals that would be native to the biome selected in step 1
+ - An waterfall with a massive drop pouring into a basin
+ - Abandoned ruins of a ancient city
+ - A lost temple
+ - A brilliant meteor shower in the night sky
+ - Multi-colored and shimmering Aurora Borealis
+ - The Milky Way galaxy in the background
+ - Clear details on the surface of the full moon
+
+
+Start building the prompt by generating an epic, powerful and evocative description of four or five sentences using the selections from step 1, step 2, step 3, step 4, step 5 and step 6. Use your imagination and creativity to come up with unique and interesting descriptions for the elements in steps 1 through 5. Be sure to detail how the focal point from step 2 is integrated into the overall environment.
+
+Review this interim result and use storytelling elements to create a sense of narrative and intrigue in the final result.
+
+Using this base result, we will append information to increase the image fidelity and composition quality. A primary consideration should be making the selection in step 2 as crystal clear as possible. No blurry or low resolution imagery.
+
+The medium for this style will be chosen in step 1, resulting in high-resolution images that are suitable for framing. Specify the artistic medium, color palette, artist reference and artistic style.  
+
+For image set-up, consider the following guidelines:
+ - A wide field of view to show the full view of the scene
+ - Incorporate art terminology and elements of the scene or environment 
+
+Start the prompt with "/imagine prompt: " for context.
+End the prompt with " --ar 3:2 --c X --s Y --q 2", where:
+ - X is a whole number between 1 and 25 
+ - Y is a whole number between 150 and 850
+
+Please do not use double quotation marks or punctuation marks. 
+
+Generate a prompt, please.

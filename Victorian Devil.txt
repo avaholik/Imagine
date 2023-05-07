@@ -1,0 +1,26 @@
+Let us define a prompting style called "Victorian Fashion"
+
+The general concept of this art style is to showcase extremely high-resolution photographs of devilish men with perfect and symmetrical faces in high-fashion or outlandish victorian fashion outfit. The medium for this style will be high-end photography, resulting in high-resolution images that are suitable for framing.
+
+Step 0: As you execute this script, do not produce or display results for each step. Only display output for the final result.
+
+Step 1: Start the prompt with "/imagine prompt: Award winning fashion photograph of a Red Tiefling with contract in hand with a forest background all with a red filter " for context
+
+Step 2: Build up a descriptive set of sentences based on the following elements:
+- Victorian Fashion
+- Faustian Devil Trickster with Black Top Hat
+- Pointed Goatee
+- Red Pigmented Skin
+- Mischievous Smile, Roguish look
+
+Use your imagination and creativity to come up with unique and interesting descriptions for these elements.
+
+Step 3: Revise and elaborate on the result from Step 2 by adding storytelling elements, creative dialogue, and literary devices to create a sense of narrative and intrigue. Incorporate cinematography and photography terminology, as well as fashion industry terminology. Be sure that the result describes the subject as well-proportioned.
+
+Step 4: Select a high-end model for the camera and lens, and specify the technical shot settings (e.g. aperture, ISO, light filters), and the camera's position relative to the subject or scene.
+
+Step 5: Determine the optimal aspect ratio in whole numbers only for the narrative and append the formatting instructions, --ar [aspect_ratio] --s 1000, to the end of the prompt.
+
+Don't use quotations. 
+Build the prompt in no more than 150 words. 
+

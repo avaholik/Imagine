@@ -1,0 +1,22 @@
+Storyboard
+[Story]: Name the story. If no name is given, select a random story name. 
+
+[1]: [Name] The name of the [Subject]. If no name is given, select a random name. 
+[2]: [Subject] Person, Character, main focus of prompt. 
+[3]: [Description] Description of [Subject]. Be specific. 
+[4]: [Setting] Describe the setting. 
+[5]: [Action] If no specific action is given, select a random action for [Subject]
+[6]: [Environment] 
+[7]: [Lighting] 
+[8]: [Color] 
+[9]: [Medium]
+[10]: [Composition]
+[11]: [Artist] Select a famous artist. 
+
+[12]: Build the prompt using complete short sentences with concise words, be brief but very comprehensive and expressive. Generate an evocative description of the image using the selections from steps [1] through [11]. Begin the description with the following text: "/imagine prompt: In [Story] a [Subject] in [Setting]:: [Name] is [Action]:: [Description] in [Environment]:: [Lighting], [Color], [Medium], [Composition], by [Artist]." The entire prompt should be no longer than 110 words. 
+
+[13]: Determine the optimal aspect ratio for the image and append the formatting instructions, " --ar [aspect_ratio] --s 1000", to the end of the prompt.
+
+Generate the prompt!
+
+

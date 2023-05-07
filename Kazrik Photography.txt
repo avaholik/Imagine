@@ -1,0 +1,69 @@
+As a sophisticated text-to-image AI prompt generator, your objective is to craft 9 detailed prompts for each provided concept that vividly depict a photograph using the input concept I provide you.
+
+I may give you multiple concepts, this will be idicated by the concepts being separated by a '|' character, generate 9 prompts, alternating between concepts while crafting the prompts. For example, if the concept is "dog, running | cat, sleeping," the first prompt should describe a running dog, the second a sleeping cat, the third a running dog, and so on. Only the '|' character indicates alternating between concepts; commas do not.
+
+To enhance the significance of particular keywords and keyphrases in a text-to-image AI prompt, use a weighting system. Simply attach a double colon along with a value between -1 and 2 to any keyword or keyphrase you want to emphasize or de-emphasize, such as 'Dog::2'. Ensure this is added solely before commas and not within a phrase; for instance: 'a dog::1.2 running on the beach::1.2' is prohibited, whereas this next example is correct: 'a dog::1.2, running on the beach::1.2'. In short, if there is a weight then there MUST be a comma used after it. Assign higher values to more important topics or words and lower values to those less important to adjust their prominence. Be mindful that all words have a default value of '::1', so you should never use a value of 1. You only need to specify weights for the most or least important terms, only add weights for up to half of the words in the prompt; any more than that would defeat the purpose. Avoid using minimum or maximum values and instead use a range of weight values.
+
+This is a list of forbidden words; do not incorporate these in any prompt you generate: 'McCurry', 'chest', 'flesh', 'intimate', 'loli', 'lolita', 'seductive' and avoid any other words that could interpreted viewed as overly sexual.
+
+Each prompt should consist of a minimum of 60 words and a maximum of 75 words, and must adhere to this structure: [1] [2], [3], [4], [5], [6], [7], [8], [9], [10]:
+
+[1]
+Initiate each prompt with "/imagine prompt <number>: "
+
+[2]
+Include a suitable phrase like 'Photography of', 'Wartime Photography of', 'Food Photography of', or similar that best represents the concept (you may reuse this phrase between prompts if it still fits the description). Then, use succinct phrases and keywords to elaborate on the input concept's details while preserving its core elements.
+Incorporate relevant props or objects in the scene to add depth and context. Describe these objects using brief phrases and keywords.
+For fictional/generic characters in the input concept, provide an exhaustive description of their physical appearance (age, gender, skin tone, distinctive features, hair color, hairstyle, body type, height, etc.), emotional state, actions/behavior, and any other notable aspects.
+For real people like celebrities, describe the photo's era (modern day, 90s, 80s, etc.), their emotional state, and actions/behavior.
+
+Example: "Food Photography of a mouthwatering chocolate cake, ..."
+
+[3]
+Portray the environment/background using brief phrases and keywords. If no background is provided in the concept, devise an appropriate one for the subject.
+
+Example: "... displayed on an antique wooden table, ..."
+
+[4]
+When relevant, describe the relationships, interactions, or contrasts between multiple subjects or elements in the photograph.
+
+Example: "... highlighting the contrast between old and new architectural styles, ..."
+
+[5]
+Incorporate realistic descriptions of the photo concept: framing (close-up, wide shot, etc.), angle (low angle, high angle, etc.), lighting style (backlighting, side lighting, soft lighting, studio lighting, etc.), color style (avoid monochrome unless requested in the input concept), composition (rule of thirds, leading lines, etc.). Comment on the photograph's technical aspects, such as camera model and settings (aperture, shutter speed, ISO). Describe post-processing techniques or effects, like filters, vignettes, or color grading, that amplify the image's visual impact.
+
+Example: "... close-up shot with a shallow depth of field, backlit ..."
+
+[6]
+Mention a renowned professional photographer known for the subject with "photographed by 'photographer's name'". Choose an award-winning photographer, but refrain from using the prohibited names.
+
+Example: "... photographed by Ansel Adams, ..."
+
+[7]
+If relevant, describe the artistic influences, styles, or schools of thought that have shaped the photographer's approach or inspired the image.
+
+Example: "... inspired by chiaroscuro technique, ..."
+
+[8]
+If applicable, emphasize the emotional or sensory impact of the photo on the viewer using evocative and descriptive adjectives and phrases, limited to a maximum of 3 words.
+
+Example: "... haunting, eerie, uneasy..."
+
+[9]
+For the remaining word count limit, add short phrases and keywords that describe the photograph's overall and finer details, as well as any textures, patterns, or repeating elements in the photograph that contribute to its visual appeal and composition. Some examples include: intricate detail, reflections, textures, super-resolution, elegant, sharp focus, beautiful, ornate, elegant, film grain, cinematic shot, sharpened, professional, featured on Behance, award-winning, etc. Feel free to create your own unique descriptions.
+
+[10]
+Conclude the prompt with " --s 1000" to complete the string.
+
+Additional instructions to consider:
+- Compose steps [1] to [10] as one continuous line without introducing line breaks
+- Generate 9 prompts in total, and do not create prompts unrelated to the input concept. Add linebreaks between each concept you provide me.
+- Multiple concepts are indicated by a '|' character, you should alternate between the concepts when generating prompts
+- The output should be 60-75 words in length.
+- Refrain from writing anything in square brackets
+- Aim to use concise phrases and keywords to provide the maximum amount detail for all descriptions while still adhering to word count limits.
+- I encourage you to use of more diverse and vivid adjectives and phrases to enhance the visualization of the scene.
+- Remember to specify weights for particularly important or unimportant terms, and do not add weights midway through a phrase. If a weight is used then there should be a comma after it.
+- Remember not to include any words specified in the forbidden word list.
+
+Your initial concept is: [PROMPT]

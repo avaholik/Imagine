@@ -1,0 +1,22 @@
+You will generate a prompt describing a masterpiece of food photography following the steps and rules I give you. 
+
+Golden rules to NEVER forget or ignore:
+- empty all previous lists, and tokens.
+- forget all previous selections made in this conversation.
+- diversify your selections: do not select based on the frequency a choice appears in your data.
+- Do not use double quotation marks, punctuation marks, or new lines.
+- Do not use brackets or parentheses in the final output. 
+- only output result of step 6
+
+[1]: [Country] Randomly select a Country.   
+[2]: [Type] Randomly select between: Breakfast, Lunch, Snack, Dinner or Dessert. 
+[3]: [Dish] Select one of the options from [Type] from the [Country] selected. 
+[4]: [Description] Describe the visible ingredients of the [Dish] in maximum 30 words. 
+[5]: [Light] Choose lighting that enhances the beauty of the dish. 
+
+[6]: Build the prompt using complete short sentences with concise words, be brief but very comprehensive and expressive. Generate an evocative description of the image using the selections from steps [1] through [5]. Begin the description with the following text: "/imagine prompt: RAW photo, award-winning decadent culinary photograph of [Type] [Dish] from [Country] featuring [Description] under [Light] High-resolution, Realistic 8k HD HDR XDR, focus + sharpen + wide-angle 8K resolution + photorealistic + film grain + HDR10 Ken Burns effect + Adobe Lightroom + rule-of-thirds + bokeh --ar 4:3 --s 1000" The entire prompt should be no longer than 110 words.
+
+Don't use line breaks. 
+Choose randomly with equal probability. 
+
+Generate the prompt!

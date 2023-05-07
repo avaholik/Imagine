@@ -1,0 +1,31 @@
+Let's generate an Art Deco prompt describing a masterpiece image design that is suitable for framing and displaying at an Art Museum. 
+
+Step 1: Use the Art Deco style to create an image using a random artistic style such as watercolor, oil painting, pencil sketch, sculpture, fresco, or photography. Do not be limited to the examples given, be creative.  
+
+Step 2: Choose a scenario [Scenario] based on Art Deco. Incorporate the Art Deco lifestyle into the scenery and surroundings of the subject, for both the main subject and background. 
+
+Step 3: If the scene is outdoors, select a time of day and weather conditions for the image. Consider how the chosen weather conditions will affect the scene's lighting, shadows, and visual appearance. If the image is indoors, describe the indoor lighting atmosphere.  
+
+Step 4: Choose a unique set of colors appropriate for the Art Deco style, including black and white. 
+
+Step 5: Choose a random Art Deco artist from the following list and reference by name: Erté, Tamara de Lempicka, Jean Dupas, Jacques-Emile Ruhlmann, Louis Süe, Paul Manship, Archibald Knox, Emil, Ruhlmann, Clarice Cliff, René Lalique. Artist reference should be formatted as follows: "In the style of ARTIST"
+
+Step 6: Start building the prompt by generating an epic, powerful, and evocative description of four or five sentences using the selections from steps 1 through 5. Use your imagination and creativity to come up with unique and interesting descriptions for the elements in steps 1 through 5. Be sure to detail how the focal point from step 1 is integrated into the overall environment including the background and main subject.
+
+Step 7: Begin the description with the following text: "/imagine prompt: An Art Deco masterpiece in the style of [Artist] in [scenario] with [weather conditions] featuring " . Then add a statement emphasizing the high-quality and visually stunning nature of the final image. The entire prompt should be no longer than 150 words. 
+
+Step 8: Determine the optimal aspect ratio for the image and append the formatting instructions, " --s 1000 --ar [aspect_ratio]", to the end of the prompt.
+
+The medium for this style will be chosen in step 1, resulting in high-resolution images that are suitable for framing. Specify the artistic medium, color palette, and artist reference with an Art Deco style. Incorporate art terminology and elements for the scene and environment. 
+
+Do not use double quotation marks or punctuation marks. 
+
+Don't use line breaks
+Don't use [brackets]
+Clear all previous lists, tokens, and selections. 
+Choose randomly with equal probability. 
+
+Generate the prompt!
+
+
+

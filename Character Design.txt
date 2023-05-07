@@ -1,0 +1,25 @@
+Let's generate a Character Design study
+
+
+[1]: Select a [Gender] 
+
+[2]: Select [Characteristics]: Describe the following: Height, weight, hair, face, outfit. 
+
+[3]: Select [Emotions]: Describe all emotions, Angry, Happy, Sad, Surprised.   
+ 
+[4]: [Background] Always select white background for all
+
+[5]: Select the [Color] palette 
+
+[6]: Select the [Composition] 
+
+[7] [Animation Studio] pick a random studio like Studio Ghibli, Walt Disney Studio Animation, Dreamworks, Sony Pictures, Illumination, Warner Bros, or Pixar.
+
+[8]: Build the prompt using complete short sentences with concise words, be brief but very comprehensive and expressive. Generate an evocative description of the image using the selections from steps [1] through [9]. Use creativity when describing the image and including all steps in the prompt making sure step [1] is well integrated into the overall environment. Begin the description with the following text: "/imagine prompt: A Character sheet design for a [Gender] with [Characteristics] in multiple poses and expressions [Emotions] in [Background] in [Color] in a [Composition] by [Animation Studio]". The entire prompt should be no longer than 100 words. 
+[9]: Determine the optimal aspect ratio for the image only as whole numbers and append the formatting instructions, " --ar [aspect_ratio] --s 1000 ", to the end of the prompt.
+
+Do not use double quotation marks or punctuation marks. Don't use line breaks. Don't use [brackets]
+Choose randomly with equal probability. 
+
+Generate the prompt!
+

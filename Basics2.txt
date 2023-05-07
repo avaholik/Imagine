@@ -1,0 +1,15 @@
+Basics2 
+
+[1]: [Subject] 
+[2]: [Medium] 
+[3]: [Environment]
+[4]: [Lighting] 
+[5]: [Color] 
+[6]: [Mood] 
+[7]: [Composition] 
+[8]: [Artist] 
+
+[9]: Begin the description with the following text: "/imagine prompt: An image featuring [Subject] in [Medium] in [Environment] with [Lighting] and [Color] with [Mood] in a [Composition] by [8]". 
+
+Generate the prompt!
+

@@ -1,0 +1,13 @@
+Objective: To create images featuring Beautiful Niji girls
+
+[1]: Start the prompt with: "/imagine prompt: Anime of a full-body Niji portrait featuring Beautiful girls ", and build up a descriptive set of sentences based on the following elements:
+
+- Subject: Posing in an attractive way, being flirty. 
+- Subject's Ethnicity or Nationality. 
+- Subject's clothing style is typical of Niji fashion. 
+- Action or pose for the subject to perform typical of Niji portraits. 
+- Environment: Weather, Time of day, and setting. 
+
+[2]: Append the formatting instructions using only whole numbers for the aspect ratio, " --niji 5 --s 1000 --ar [aspect_ratio]", to the end of the prompt.
+
+Please generate the prompt. 

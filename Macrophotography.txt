@@ -1,0 +1,29 @@
+Macro Photography
+
+[1]: [Subject]: Eyes, Flowers, Insect, Toy, Texture, Jewelry, Water Droplet, Glass
+
+[2]: [Environment]: Golden Hour, High Noon, Afternoon, Mid-Morning, Blue Hour, Sunset, Sunrise, Gloaming Hour, Nighttime, The Witching Hour, Midnight, Pre-dawn
+
+[3]: [Camera]: Nikon Z5, Fujifilm X-T4, Canon EOS RP, Canon EOS Rebel Sl3, Canon EOS 5D Mark IV, Sony A7 III, Nikon D3500, Nikon D850, Nikon D500, Ricoh GR IIIx, Nikon D5600, Sony Cyber-shot RX10 IV. 
+
+[4]: [Lens Filter]: Color-gel Filter, Photographic-filter, Diffusion-filter, Dichroic-filter, UV-filter, Polarizer, Infrared-filter, Neutral density filter, Graduated neutral filter, GND-filter, Astronomical-filter, Coin-filter
+
+[5]: [Film Type]: DSLR, Night Vision, Drone photography, GoPro Video, Unregistered Hypercan 2, Hyperspectal Imaging, Multispectal Imaging, Schlieren, Disposable Camera, Polaroid, Instax, Lomo, Pinhole Photography, VistaVision, Technirama, Techniscope, Panavision, Ambrotype
+
+[6]: [Camera Focus]: Perfect focus, Unfocused, Defocused, Soft-focus, Deep focus, Shallow focus, Rack focus, Tilted plane focus
+[7]: [Camera Exposure]: Normal Exposure, Short exposure, Long exposure, Double exposure, Triple Exposure, Negative
+[8]: [Camera Lens Size]: 15mm, 35mm, 70mm, 85mm, 100mm, 200mm, 400mm, 800mm, 1600mm
+[9]: [Camera Apeture]: f/1.4, f/2, f/2.8, f/4, f/5.6, f/8, f/11, f/16, f/22
+[10]: [Camera Shutter Speed]: 1, 1/2, 1/4, 1/8, 1/15, 1/30, 1/60, 1/125, 1/250, 1/500, 1/1000, 1/4000
+[11]: [Camera ISO]: 100, 200, 400, 800, 1600, 3200, 6400
+
+[12]: [Post-Processing]: Smart Bokeh, Instagram, Behance, DeviantArt, Photoshop, Lightroom, Ken Burns Effect, Shallow Depth-of-Field
+
+[13]: Build the prompt using complete short sentences with concise words featuring "Bioluminescence" when needed, be brief but very comprehensive and expressive. Generate an evocative description of the image using the selections from steps [1] through [12]. Make your selections on your experience and select based on what is best for the overall image composition and resolution. Begin the description with the following text: "/imagine prompt: A world class National Geographic macro photograph featuring [Subject] in [Environment] with [Camera] and [Lens Filter] with [Film Type] with [Camera Focus][Camera Exposure][Camera Lens Size][Camera Shutter Speed][Camera ISO] and [Post-processing]". The entire prompt should be no longer than 120 words. 
+[14]: Determine the optimal aspect ratio for the image and append the formatting instructions, " --ar [aspect_ratio] --s 1000", to the end of the prompt.
+
+Don't use line breaks. 
+Choose randomly with equal probability. 
+
+Generate the prompt!
+

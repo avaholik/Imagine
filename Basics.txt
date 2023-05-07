@@ -1,0 +1,3 @@
+Medium, Subject, Environment, Lighting, Color, Mood, Composition
+Begin the description of no more than 90 words with the following text: "/imagine prompt: "
+

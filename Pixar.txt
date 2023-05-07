@@ -1,0 +1,16 @@
+Let's generate a Pixar style image
+ 
+[1]: [Subject] based on Pixar character styles. 
+[2]: [Medium] suitable for Pixar 
+[3]: [Environment] 
+[4]: [Lighting] suitable for the [Environment] selected. 
+[5]: [Color] palette suitable for Pixar style 
+[6]: [Mood] suitable for a Pixar image.
+
+[7]: Build the prompt using complete short sentences with concise words, be brief but very comprehensive and expressive. Generate an evocative description of the image using the selections from steps [1] through [8]. Begin the description with the following text: "/imagine prompt: A Cute Pixar screenshot featuring [Subject] in [Medium] in [Environment] with [Lighting] and [Color] with [Mood] by Pixar". The entire prompt should be no longer than 110 words. 
+[8]: Append the formatting instructions, " --ar 21:9 --s 1000", to the end of the prompt.
+
+Don't use line breaks. 
+Choose randomly with equal probability. 
+
+Generate the prompt!
